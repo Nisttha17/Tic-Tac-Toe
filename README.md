@@ -1,28 +1,23 @@
-# Tic-Tac-Toe
+# 🎮 Tic-Tac-Toe (React)
 
-A React-based Tic Tac Toe game.
+A clean and fun Tic-Tac-Toe game built using React.
 
-## Available Scripts
+## ✨ Features
+- Two-player mode (X vs O)
+- Highlights the winner
+- Simple and responsive UI
+- Restart/Reset game option
 
-In the project directory, you can run:
+## 🚀 Getting Started
 
-### `npm start`
+```bash
+git clone https://github.com/Nisttha17/Tic-Tac-Toe.git
+cd Tic-Tac-Toe
+npm install
+npm start
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### `npm test`
+##🧠 How to Play
 
-Launches the test runner in interactive watch mode.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-
-## How to Play
-
-- Two players take turns marking X and O on a 3x3 grid
-- The first player to get 3 of their marks in a row (horizontally, vertically, or diagonally) wins
-- If all 9 squares are filled without a winner, the game is a draw
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Click on any square to place X or O.
+The first player to complete a line of 3 (horizontal, vertical, or diagonal) wins!
