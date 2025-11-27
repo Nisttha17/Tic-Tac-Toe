@@ -3,6 +3,7 @@
 A clean and fun Tic-Tac-Toe game built using React.
 
 ## ✨ Features
+
 - Two-player mode (X vs O)
 - Highlights the winner
 - Simple and responsive UI
@@ -16,8 +17,8 @@ cd Tic-Tac-Toe
 npm install
 npm start
 
-
-##🧠 How to Play
+## 🧠 How to Play
 
 Click on any square to place X or O.
 The first player to complete a line of 3 (horizontal, vertical, or diagonal) wins!
+```
